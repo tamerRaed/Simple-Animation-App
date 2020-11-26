@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bias_to_right" format="float" type="dimen">0.07</item>
+    <item name="bias_to_left" format="float" type="dimen">0.93</item>
+    <item name="bias_to_top" format="float" type="dimen">0.11</item>
+    <item name="bias_to_bottom" format="float" type="dimen">0.89</item>
+    <item name="center_bottom_to" format="float" type="dimen">0.5</item>
+    <item name="center_bottom_from" format="float" type="dimen">0.12</item>
+    <item name="center_top_to" format="float" type="dimen">0.5</item>
+    <item name="center_top_from" format="float" type="dimen">0.88</item>
+    <item name="center_right_to" format="float" type="dimen">0.6</item>
+    <item name="center_right_from" format="float" type="dimen">0.2</item>
+    <item name="center_left_from" format="float" type="dimen">0.8</item>
+    <item name="center_left_to" format="float" type="dimen">0.40</item>
+
+</resources>
